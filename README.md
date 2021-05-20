@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @danieleid317
+- 👀 I’m interested in ...
+Building well maintained code that is able to help businesses extract useful customer metadata and improve user experience.
+- 🌱 I’m currently learning ...
+Data science and web development.  
+- 💞️ I’m looking to collaborate on ...
+Projects with well structured objectives that are looking to enhance the field or industry that they will operate within.
+- 📫 How to reach me ...
+ deid317@gmail.com
+<!---
+danieleid317/danieleid317 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
